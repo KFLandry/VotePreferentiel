@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotePreferentiel.Worker", "VotePreferentiel.Worker\VotePreferentiel.Worker.csproj", "{ECBE9404-D285-44D7-A392-12A0BE9CC95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotePreferentiel.Tests", "VotePreferentiel.Tests\VotePreferentiel.Tests.csproj", "{9E49845B-8C53-4C17-9F33-FBB67837059D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotePreferentiel", "VotePreferentiel\VotePreferentiel.csproj", "{BFC15587-FD62-4858-A644-33107B809F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBE9404-D285-44D7-A392-12A0BE9CC95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBE9404-D285-44D7-A392-12A0BE9CC95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBE9404-D285-44D7-A392-12A0BE9CC95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBE9404-D285-44D7-A392-12A0BE9CC95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E49845B-8C53-4C17-9F33-FBB67837059D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E49845B-8C53-4C17-9F33-FBB67837059D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E49845B-8C53-4C17-9F33-FBB67837059D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E49845B-8C53-4C17-9F33-FBB67837059D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC15587-FD62-4858-A644-33107B809F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC15587-FD62-4858-A644-33107B809F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC15587-FD62-4858-A644-33107B809F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC15587-FD62-4858-A644-33107B809F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
