@@ -1,0 +1,10 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# IDE
+.idea/
+
+# Test outputs
+TestResults/
+
