@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Exe</OutputType>
+        <IsPackable>false</IsPackable>
+        <TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="TUnit" Version="1.7*" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\VotePreferentiel\VotePreferentiel.csproj" />
+        <ProjectReference Include="..\VotePreferentiel.Worker\VotePreferentiel.Worker.csproj" />
+    </ItemGroup>
+
+</Project>
